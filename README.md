@@ -2,8 +2,8 @@ Choosing the components for your first pc build can be a struggle. That is why I
 Disclaimer: This file does not replace professional advice.
 
 Contents:
-  1. Database of gpus ranging from gtx 1050 ti to rtx 5090
-  2. Cpu databases from ryzen 1000 to ryzen 9000 and intel 8th gen to intel core ultra generations
+  1. Database of gpus ranging from the GTX 1050 Ti to the RTX 5090
+  2. Cpu databases from Ryzen 1000 to Ryzen 9000 and Intel 8th gen to Intel Core Ultra generations
   3. Database of gpus with resolution capabilities
 
 What does it help with?:
