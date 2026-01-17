@@ -1,7 +1,7 @@
 Choosing the components for your first pc build can be a struggle. That is why I created this simple cmd-based python program to help you choose the components for your first pc build.
 Disclaimer: This file does not replace professional advice.
 
-Includes:
+Contents:
   1. Database of gpus ranging from gtx 1050 ti to rtx 5090
   2. Cpu databases from ryzen 1000 to ryzen 9000 and intel 8th gen to intel core ultra generations
   3. Database of gpus with resolution capabilities
