@@ -1,4 +1,4 @@
-This is a simple python program to help you build your first pc.
+Choosing components for your first pc build can be a struggle. That is why I created this simple cmd-based python program to help you choose the components for your first pc build.
 Disclaimer: This file does not replace professional advice.
 
 Includes:
